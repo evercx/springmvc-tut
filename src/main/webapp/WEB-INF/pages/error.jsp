@@ -3,11 +3,9 @@
 <html>
 <body>
 
-<h2>success</h2>
+<h2>error</h2>
 
-
-${user.username}
-${user.password}
+${errorMsg}
 
 </body>
 </html>
